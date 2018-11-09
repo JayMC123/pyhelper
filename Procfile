@@ -1,1 +1,1 @@
-workers: python pyhelper.py
+worker: python pyhelper.py
